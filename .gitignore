@@ -1,0 +1,16 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# 로그인 쿠키와 세션이 저장되는 브라우저 프로필
+browser_profile/
+naver_profile/
+
+# 고객 리뷰가 포함될 수 있는 실행 결과
+output/
+*.xlsx
+*.csv
+
